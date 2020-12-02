@@ -2,4 +2,4 @@
 xiayx <xiayouxue@hotmail.com>
 v1.0, 2019-10-16: SNAPSHOT
 
-详情参考 https://peacetrue.cn/summarize/index.html[安宁微服务^]。
+详情参考 https://peacetrue.cn/summarize/index.html[安宁的博客^]。
